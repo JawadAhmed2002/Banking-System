@@ -7,22 +7,6 @@
 * Customer/Account Status Listing page with activity
 * Transaction history with excel export
 
-## Screenshots
-
-![image](https://raw.githubusercontent.com/singhnk288/Banking-Management-System-in-Flask/master/BMS-screenshot/login.PNG)
-
-![image](https://raw.githubusercontent.com/singhnk288/Banking-Management-System-in-Flask/master/BMS-screenshot/create_account.PNG)
-
-![image](https://raw.githubusercontent.com/singhnk288/Banking-Management-System-in-Flask/master/BMS-screenshot/search_customer.PNG)
-
-![image](https://raw.githubusercontent.com/singhnk288/Banking-Management-System-in-Flask/master/BMS-screenshot/transfer_amount.PNG)
-
-![image](https://raw.githubusercontent.com/singhnk288/Banking-Management-System-in-Flask/master/BMS-screenshot/account_statement.PNG)
-
-![image](https://raw.githubusercontent.com/singhnk288/Banking-Management-System-in-Flask/master/BMS-screenshot/view_account_detail.PNG)
-
-# [Demo Video:](https://drive.google.com/open?id=1HMP0J7Cc1eVJgUE8Y4I-xI0gVeEcmyC5)
-
 ## Git setup
 Install [Git](https://git-scm.com/)
 
